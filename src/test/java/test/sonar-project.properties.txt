@@ -1,0 +1,5 @@
+sonar.projectKey=7db060dace19fbe0f7552ee1c3be92ddfab1d555
+sonar.projectName=TestFile
+sonar.sourceEncoding=UTF-8
+sonar.sources=C:/Users/User/eclipse-workspace/Seleniummavendemo/src/test/java/test/TestFile.java
+
